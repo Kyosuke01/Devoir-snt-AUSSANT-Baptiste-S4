@@ -1,0 +1,221 @@
+body {
+    margin: auto;
+}
+
+.header_title {
+    font-family: "Impact", sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    font-size: 35px;
+}
+
+.nav_link {
+    display: flex;
+    background-color: #333;
+    padding: 1%;
+    font-size: 120%;
+    justify-content: space-evenly;
+}
+
+
+
+
+.nav_link_home {
+    text-decoration: none;
+    color: rgb(204, 207, 0);
+}
+
+.nav_link_lol, .nav_link_mc, .nav_link_cr, .nav_link_ftn {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+.nav_link_lol2 {
+    text-decoration: none;
+    color: rgb(204, 207, 0);
+}
+
+.nav_link_home2, .nav_link_mc2, .nav_link_cr2, .nav_link_ftn2 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+.nav_link_mc3 {
+    text-decoration: none;
+    color: rgb(204, 207, 0);
+}
+
+.nav_link_home3, .nav_link_lol3, .nav_link_cr3, .nav_link_ftn3 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+.nav_link_cr4 {
+    text-decoration: none;
+    color: rgb(204, 207, 0);
+}
+
+.nav_link_home4, .nav_link_lol4, .nav_link_mc4, .nav_link_ftn4 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+.nav_link_ftn5 {
+    text-decoration: none;
+    color: rgb(204, 207, 0);
+}
+
+.nav_link_home5, .nav_link_lol5, .nav_link_mc5, .nav_link_cr5 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.home_box {
+    word-spacing: 50px;
+}
+
+.home_box_lol, .home_box_mc, .home_box_cr, .home_box_ftn {
+    border:4px solid rgb(27, 15, 37);
+    width: 500px;
+    display: inline-grid;
+    font-size: 200%;
+    text-align: center;
+    word-spacing: 0px;
+    color: white;
+    text-decoration: none;
+    padding: 2%;
+    margin-top: 3%;
+	margin-bottom: 3%;
+    border-radius: 5.5px;
+    background-color: rgb(121, 70, 74);
+}
+
+
+
+
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(167, 183, 255);
+}
+
+nav ul li {
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 150px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+nav ul li a {
+    display: block;
+}
+
+nav ul li a:hover {
+    background-color: rgb(160, 160, 160);
+    opacity: 0.9;
+}
+
+nav ul li ul {
+    display: none;
+}
+
+nav ul li:hover ul {
+    display: block;
+}
+
+
+
+section p li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(167, 183, 255);
+}
+
+section p li {
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 150px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+section p li a {
+    display: block;
+}
+
+section p li a:hover {
+    background-color: rgb(160, 160, 160);
+    opacity: 0.9;
+}
+
+section p li ul {
+    display: none;
+}
+
+section p li:hover ul {
+    display: block;
+}
+
+
+
+
+
+.source {
+    background-color: #333;
+    text-align: center;
+    padding: 0.6%;
+}
+  
+.source a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 5%;
+}
+
+
+.resum_lol {
+    margin: 1%;
+}
+
+
+.text_liste_champion_lol, .text_map_lol, .text_liste_objet_lol {
+    font-size: 150%;
+}
+
+
+
+
+.dev_edit_mc {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.table_mc {
+    margin-bottom: 5%;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+html {
+    font-family: "Open Sans", sans-serif;
+}
